@@ -7,7 +7,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Gad2_0
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/DsKxj2zDaYRdGiY/download/0.bw
@@ -42,7 +42,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Sox6_1
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/J27zqgbRSycfpxp/download/1.bw
@@ -101,7 +101,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Calb1_7
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/63Ce7EXkLk9H8o4/download/7.bw
@@ -192,7 +192,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Cluster17
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/HHHx3HsmMjzg6TA/download/17.bw
@@ -211,7 +211,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Sox6+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/BT8XXLeBiiqXoD5/download/Sox6+.bw
@@ -238,7 +238,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Aldh1a1+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/kZ74cYzY4qSH6ss/download/Aldh1a1+.bw
@@ -265,7 +265,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Anxa1+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/T5GBLXM8ZAfGD7Z/download/Anxa1+.bw
@@ -292,7 +292,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Calb1+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/FZeFyS3kAsfy9db/download/Calb1+.bw
@@ -319,7 +319,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Slc17a6+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/NHXzzNo5QWk99zD/download/Slc17a6+.bw
@@ -346,7 +346,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Otx2+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/iLDSzpK6gKSA9pb/download/Otx2+.bw
@@ -373,7 +373,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Neurod6+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/SZs2KBrFL9iwHSn/download/Neurod6+.bw
@@ -400,7 +400,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Itprid1+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/iGXLHrEfSpBJ6NT/download/Itprid1+.bw
@@ -427,7 +427,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Masp1+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/93G4pcXrWYH7aeF/download/Masp1+.bw
@@ -454,7 +454,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Gad2+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/niT2RDGSTGWMMER/download/Gad2+.bw
@@ -481,7 +481,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Crhbp+
                 bigDataUrl https://206-12-88-239.cloud.computecanada.ca/nextcloud/index.php/s/kFZbtt7bcE8FCze/download/Crhbp+.bw
@@ -508,7 +508,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track SNc-VTA-RAmb_Foxa1
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/SNc-VTA-RAmb_Foxa1_Dopa.bw
@@ -536,7 +536,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track SNr_Six3_Gaba
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/SNr_Six3_Gaba.bw
@@ -579,7 +579,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0.25:7.5
+viewLimits 0:7.5
 
                 track Astrocyte-CB
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/Astro-CB_NN.bw
@@ -620,6 +620,7 @@ viewLimits 0.25:7.5
                 parent CATlas_Glia
                 type bigWig
                 color 87,103,145
+
 
 
 
