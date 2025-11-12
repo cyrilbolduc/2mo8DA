@@ -283,6 +283,115 @@ viewLimits 0:7.5
                 type bigWig
                 color 251,36,16
 
+track Aldh1a7_+/-
+type bigWig
+container multiWig
+shortLabel Aldh1a7_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Aldh1a7+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/Jf9fsyxk57PJLGK/download/Aldh1a7+.bw
+                shortLabel Aldh1a7+
+                longLabel ATACseq signal
+                parent Aldh1a7_+/-
+                type bigWig
+                color 98,170,45
+
+                track Aldh1a7-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/BLGjoxGjLSnqL8Y/download/Aldh1a7-.bw
+                shortLabel Aldh1a7-
+                longLabel ATACseq signal
+                parent Aldh1a7_+/-
+                type bigWig
+                color 251,36,16
+
+
+track Pparg_+/-
+type bigWig
+container multiWig
+shortLabel Pparg_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Pparg+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/JMgmBq58DAemqJZ/download/Pparg+.bw
+                shortLabel Pparg+
+                longLabel ATACseq signal
+                parent Pparg_+/-
+                type bigWig
+                color 98,170,45
+
+                track Pparg-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/QJjwe79di2NzGnY/download/Pparg-.bw
+                shortLabel Pparg-
+                longLabel ATACseq signal
+                parent Pparg_+/-
+                type bigWig
+                color 251,36,16
+
+track Tafa4_+/-
+type bigWig
+container multiWig
+shortLabel Tafa4_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Tafa4+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/z4668MAJBPZ2NLq/download/Tafa4+.bw
+                shortLabel Tafa4+
+                longLabel ATACseq signal
+                parent Tafa4_+/-
+                type bigWig
+                color 98,170,45
+
+                track Tafa4-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/bctQeLc9KwaZ5od/download/Tafa4-.bw
+                shortLabel Tafa4-
+                longLabel ATACseq signal
+                parent Tafa4_+/-
+                type bigWig
+                color 251,36,16
+
+track Cadm1_+/-
+type bigWig
+container multiWig
+shortLabel Cadm1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Cadm1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/j4ekmbfzN5Kecp5/download/Cadm1+.bw
+                shortLabel Cadm1+
+                longLabel ATACseq signal
+                parent Cadm1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Cadm1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/67PM93DfHN3notH/download/Cadm1-.bw
+                shortLabel Cadm1-
+                longLabel ATACseq signal
+                parent Cadm1_+/-
+                type bigWig
+                color 251,36,16
+
 track Calb1_+/-
 type bigWig
 container multiWig
@@ -334,6 +443,33 @@ viewLimits 0:7.5
                 shortLabel Slc17a6-
                 longLabel ATACseq signal
                 parent Slc17a6_+/-
+                type bigWig
+                color 251,36,16
+
+track Otx1_+/-
+type bigWig
+container multiWig
+shortLabel Otx1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Otx1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/FWx7pH3WwMnj7x4/download/Otx1+.bw
+                shortLabel Otx1+
+                longLabel ATACseq signal
+                parent Otx1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Otx1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/rS2RH3cRCiEjg6s/download/Otx1-.bw
+                shortLabel Otx1-
+                longLabel ATACseq signal
+                parent Otx1_+/-
                 type bigWig
                 color 251,36,16
 
@@ -445,6 +581,303 @@ viewLimits 0:7.5
                 type bigWig
                 color 251,36,16
 
+track Cck_+/-
+type bigWig
+container multiWig
+shortLabel Cck_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Cck+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/cbpyAEdfTk6pAS9/download/Cck+.bw
+                shortLabel Cck+
+                longLabel ATACseq signal
+                parent Cck_+/-
+                type bigWig
+                color 98,170,45
+
+                track Cck-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/2wbrT6qJwbBCEs5/download/Cck-.bw
+                shortLabel Cck-
+                longLabel ATACseq signal
+                parent Cck_+/-
+                type bigWig
+                color 251,36,16
+
+track Lepr_+/-
+type bigWig
+container multiWig
+shortLabel Lepr_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Lepr+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/wW2QNraiSJQNkC9/download/Lepr+.bw
+                shortLabel Lepr+
+                longLabel ATACseq signal
+                parent Lepr_+/-
+                type bigWig
+                color 98,170,45
+
+                track Lepr-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/c9SzzieqwRbKMC7/download/Lepr-.bw
+                shortLabel Lepr-
+                longLabel ATACseq signal
+                parent Lepr_+/-
+                type bigWig
+                color 251,36,16
+
+track Etv1_+/-
+type bigWig
+container multiWig
+shortLabel Etv1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Etv1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/Ajs8t3ntyGHMoWq/download/Etv1+.bw
+                shortLabel Etv1+
+                longLabel ATACseq signal
+                parent Etv1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Etv1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/LCtqgJGbFw9aHKS/download/Etv1-.bw
+                shortLabel Etv1-
+                longLabel ATACseq signal
+                parent Etv1_+/-
+                type bigWig
+                color 251,36,16
+
+track Ndnf_+/-
+type bigWig
+container multiWig
+shortLabel Ndnf_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Ndnf+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/ge5SBZY8TtFydeC/download/Ndnf+.bw
+                shortLabel Ndnf+
+                longLabel ATACseq signal
+                parent Ndnf_+/-
+                type bigWig
+                color 98,170,45
+
+                track Ndnf-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/66N9QYBRnC3ZTnX/download/Ndnf-.bw
+                shortLabel Ndnf-
+                longLabel ATACseq signal
+                parent Ndnf_+/-
+                type bigWig
+                color 251,36,16
+
+track Ntng1_+/-
+type bigWig
+container multiWig
+shortLabel Ntng1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Ntng1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/z4fMcwkjTBqHy4K/download/Ntng1+.bw
+                shortLabel Ntng1+
+                longLabel ATACseq signal
+                parent Ntng1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Ntng1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/S6aPrAyYeJwicZL/download/Ntng1-.bw
+                shortLabel Ntng1-
+                longLabel ATACseq signal
+                parent Ntng1_+/-
+                type bigWig
+                color 251,36,16
+
+track Pard3b_+/-
+type bigWig
+container multiWig
+shortLabel Pard3b_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Pard3b+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/R7MMTMW7BJgqokn/download/Pard3b+.bw
+                shortLabel Pard3b+
+                longLabel ATACseq signal
+                parent Pard3b_+/-
+                type bigWig
+                color 98,170,45
+
+                track Pard3b-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/tMz2YGmQe2HLLBn/download/Pard3b-.bw
+                shortLabel Pard3b-
+                longLabel ATACseq signal
+                parent Pard3b_+/-
+                type bigWig
+                color 251,36,16
+
+track Pcdh17_+/-
+type bigWig
+container multiWig
+shortLabel Pcdh17_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Pcdh17+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/FDtM4LeWma3m8wz/download/Pcdh17+.bw
+                shortLabel Pcdh17+
+                longLabel ATACseq signal
+                parent Pcdh17_+/-
+                type bigWig
+                color 98,170,45
+
+                track Pcdh17-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/zypji4kJbgmyHmS/download/Pcdh17-.bw
+                shortLabel Pcdh17-
+                longLabel ATACseq signal
+                parent Pcdh17_+/-
+                type bigWig
+                color 251,36,16
+
+track Sulf1_+/-
+type bigWig
+container multiWig
+shortLabel Sulf1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Sulf1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/xExEKatcEMKSZHk/download/Sulf1+.bw
+                shortLabel Sulf1+
+                longLabel ATACseq signal
+                parent Sulf1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Sulf1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/XzSjM68xLdjSE8a/download/Sulf1-.bw
+                shortLabel Sulf1-
+                longLabel ATACseq signal
+                parent Sulf1_+/-
+                type bigWig
+                color 251,36,16
+
+track Tafa1_+/-
+type bigWig
+container multiWig
+shortLabel Tafa1_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Tafa1+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/5sJACFpqeLoWmZ2/download/Tafa1+.bw
+                shortLabel Tafa1+
+                longLabel ATACseq signal
+                parent Tafa1_+/-
+                type bigWig
+                color 98,170,45
+
+                track Tafa1-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/c3fCDEDp686JC8t/download/Tafa1-.bw
+                shortLabel Tafa1-
+                longLabel ATACseq signal
+                parent Tafa1_+/-
+                type bigWig
+                color 251,36,16
+
+track Vcan_+/-
+type bigWig
+container multiWig
+shortLabel Vcan_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Vcan+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/sTgFnSQt5NgfPEM/download/Vcan+.bw
+                shortLabel Vcan+
+                longLabel ATACseq signal
+                parent Vcan_+/-
+                type bigWig
+                color 98,170,45
+
+                track Vcan-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/8PbAsMdfnrWZ9iY/download/Vcan-.bw
+                shortLabel Vcan-
+                longLabel ATACseq signal
+                parent Vcan_+/-
+                type bigWig
+                color 251,36,16
+
+track Vip_+/-
+type bigWig
+container multiWig
+shortLabel Vip_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Vip+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/WtjSkmYKxoRwxYc/download/Vip+.bw
+                shortLabel Vip+
+                longLabel ATACseq signal
+                parent Vip_+/-
+                type bigWig
+                color 98,170,45
+
+                track Vip-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/X7i9eHrb4oEeofc/download/Vip-.bw
+                shortLabel Vip-
+                longLabel ATACseq signal
+                parent Vip_+/-
+                type bigWig
+                color 251,36,16
+
 track Gad2_+/-
 type bigWig
 container multiWig
@@ -496,6 +929,33 @@ viewLimits 0:7.5
                 shortLabel Crhbp-
                 longLabel ATACseq signal
                 parent Crhbp_+/-
+                type bigWig
+                color 251,36,16
+
+track Lhx9_+/-
+type bigWig
+container multiWig
+shortLabel Lhx9_+/-
+longLabel ATACseq signal
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 500:100:8
+viewLimits 0:7.5
+
+                track Lhx9+
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/yGdpmNa4iFmMzLX/download/Lhx9+.bw
+                shortLabel Lhx9+
+                longLabel ATACseq signal
+                parent Lhx9_+/-
+                type bigWig
+                color 98,170,45
+
+                track Lhx9-
+                bigDataUrl https://nextcloud.computecanada.ca/index.php/s/HLH7nGjJXFkwKoz/download/Lhx9-.bw
+                shortLabel Lhx9-
+                longLabel ATACseq signal
+                parent Lhx9_+/-
                 type bigWig
                 color 251,36,16
 
@@ -620,6 +1080,7 @@ viewLimits 0:7.5
                 parent CATlas_Glia
                 type bigWig
                 color 87,103,145
+
 
 
 
