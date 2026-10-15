@@ -1090,7 +1090,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 57,50,45
+                color 55,98,171
 
                 track Calb1_12.11.6
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/8zmRS9d3Bi4qZLA/download/Calb1_12.11.6.bw
@@ -1098,7 +1098,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 230,103,53
+                color 230,103,39
 
                 track Calb1_7.19.9.13
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/PB4EGtTdTgs9nLb/download/Calb1_7.19.9.13.bw
@@ -1116,7 +1116,7 @@ viewLimits 0:7.5
                 type bigWig
                 color 124,32,30
 
-                track Calb1_Cluster5
+                track Calb1_5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/GT5knaFNbabF8S2/download/Calb1_5.bw
                 shortLabel Calb1_Cluster5
                 longLabel ATACseq signal
