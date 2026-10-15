@@ -147,10 +147,10 @@ viewLimits 0:7.5
                 type bigWig
                 color 87,103,145
 
-track Sox6_1.3.4.2.8.10
+track Sox6
 type bigWig
 container multiWig
-shortLabel Sox6_1.3.4.2.8.10
+shortLabel Sox6
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -162,14 +162,14 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/tCNr92LTAnBfYCR/download/Sox6_1.3.4.2.8.10.bw
                 shortLabel Sox6_1.3.4.2.8.10
                 longLabel ATACseq signal
-                parent Sox6_1.3.4.2.8.10
+                parent Sox6
                 type bigWig
                 color 55,98,171
 
-track Calb1_12.11.6
+track Calb1_NAc
 type bigWig
 container multiWig
-shortLabel Calb1_12.11.6
+shortLabel Calb1_NAc
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -181,15 +181,15 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/8zmRS9d3Bi4qZLA/download/Calb1_12.11.6.bw
                 shortLabel Calb1_12.11.6
                 longLabel ATACseq signal
-                parent Calb1_12.11.6
+                parent Calb1_NAc
                 type bigWig
                 color 230,103,39
 
 
-track Calb1_7.19.9.13
+track Calb1_Extrastriatal
 type bigWig
 container multiWig
-shortLabel Calb1_7.19.9.13
+shortLabel Calb1_Extrastriatal
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -201,14 +201,14 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/PB4EGtTdTgs9nLb/download/Calb1_7.19.9.13.bw
                 shortLabel Calb1_7.19.9.13
                 longLabel ATACseq signal
-                parent Calb1_7.19.9.13
+                parent Calb1_Extrastriatal
                 type bigWig
                 color 241,198,68
 
-track Calb1_14.18
+track Calb1_ParsLateralis
 type bigWig
 container multiWig
-shortLabel Calb1_14.18
+shortLabel Calb1_ParsLateralis
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -220,14 +220,14 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/Di6trAmtYLx6sAC/download/Calb1_14.18.bw
                 shortLabel Calb1_14.18
                 longLabel ATACseq signal
-                parent Calb1_14.18
+                parent Calb1_ParsLateralis
                 type bigWig
                 color 124,32,30
 
-track Calb1_5
+track Calb1_MedialShell
 type bigWig
 container multiWig
-shortLabel Calb1_5
+shortLabel Calb1_MedialShell
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -239,14 +239,14 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/GT5knaFNbabF8S2/download/Calb1_5.bw
                 shortLabel Calb1_Cluster5
                 longLabel ATACseq signal
-                parent Calb1_5
+                parent Calb1_MedialShell
                 type bigWig
                 color 161,46,39
 
-track Gad2_15.20
+track Gad2
 type bigWig
 container multiWig
-shortLabel Gad2_15.20
+shortLabel Gad2
 longLabel ATACseq signal
 visibility full
 aggregate transparentOverlay
@@ -258,7 +258,7 @@ viewLimits 0:7.5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/omd5baN7bKaQ6tc/download/Gad2_15.20.bw
                 shortLabel Gad2_15.20
                 longLabel ATACseq signal
-                parent Gad2_15.20
+                parent Gad2
                 type bigWig
                 color 68,138,69
 
