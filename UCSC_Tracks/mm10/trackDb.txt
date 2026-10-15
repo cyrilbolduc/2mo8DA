@@ -1090,7 +1090,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 68,152,211
+                color 218,50,45
 
                 track Calb1_12.11.6
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/8zmRS9d3Bi4qZLA/download/Calb1_12.11.6.bw
@@ -1098,7 +1098,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 20,79,53
+                color 230,79,54
 
                 track Calb1_7.19.9.13
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/PB4EGtTdTgs9nLb/download/Calb1_7.19.9.13.bw
@@ -1106,7 +1106,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 45,86,60
+                color 241,198,68
 
                 track Calb1_14.18
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/Di6trAmtYLx6sAC/download/Calb1_14.18.bw
@@ -1114,7 +1114,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 1,61,30
+                color 124,32,30
 
                 track Calb1_Cluster5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/GT5knaFNbabF8S2/download/Calb1_5.bw
@@ -1122,7 +1122,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 3,57,41
+                color 3,61,39
 
                 track Gad2_15.20
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/omd5baN7bKaQ6tc/download/Gad2_15.20.bw
@@ -1130,7 +1130,7 @@ viewLimits 0:7.5
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
-                color 121,34,40
+                color 67,137,68
 
 
 
