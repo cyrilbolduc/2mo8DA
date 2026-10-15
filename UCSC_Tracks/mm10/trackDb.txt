@@ -1124,9 +1124,9 @@ viewLimits 0:7.5
                 type bigWig
                 color 1,61,30
 
-                track Calb1_5
+                track Calb1_5.
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/GT5knaFNbabF8S2/download/Calb1_5.bw
-                shortLabel Calb1_5
+                shortLabel Calb1_5.
                 longLabel ATACseq signal
                 parent DAneuron_Pseudobulk_Clusters
                 type bigWig
