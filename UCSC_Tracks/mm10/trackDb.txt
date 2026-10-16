@@ -45,7 +45,7 @@ viewLimits 0:7.5
                 color 98,170,45
 
                 track Aldh1a1-
-                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/5AAJWpMSGLnM7fQ/download/Aldh1a-.bw
+                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/jbTnxsADp2EKzef/download/Aldh1a-.bw
                 shortLabel Aldh1a1-
                 longLabel ATACseq signal
                 parent Aldh1a1_+/-
