@@ -37,7 +37,7 @@ maxHeightPixels 500:100:8
 viewLimits 0:4
 
                 track Aldh1a1+
-                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/5AAJWpMSGLnM7fQ/download/Aldh1a1+.bw
+                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/66xijfpfbdMm7d3/download/Aldh1a1+.bw
                 shortLabel Aldh1a1+
                 longLabel ATACseq signal
                 parent Aldh1a1_+/-
@@ -45,7 +45,7 @@ viewLimits 0:4
                 color 98,170,45
 
                 track Aldh1a1-
-                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/jbTnxsADp2EKzef/download/Aldh1a-.bw
+                bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/6T2mDKjLFyw94cq/download/Aldh1a-.bw
                 shortLabel Aldh1a1-
                 longLabel ATACseq signal
                 parent Aldh1a1_+/-
