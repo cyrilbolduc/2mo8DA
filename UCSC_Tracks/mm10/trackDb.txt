@@ -7,7 +7,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Anxa1+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/FmAfEkPw73Wdx3A/download/Anxa1+.bw
@@ -34,7 +34,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Aldh1a1+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/5AAJWpMSGLnM7fQ/download/Aldh1a1+.bw
@@ -61,7 +61,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Sox6+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/92SF3TyMD3KFHJA/download/Sox6+.bw
@@ -88,7 +88,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Calb1+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/3CTWCQHgS8imAmc/download/Calb1+.bw
@@ -115,7 +115,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Neurod6+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/XqeBM9ZqxmoZ4M4/download/Neurod6+.bw
@@ -142,7 +142,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Otx2+
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/pxX2amAZ3qKzMQN/download/Otx2+.bw
@@ -169,7 +169,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track SNc-VTA-RAmb_Foxa1
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/SNc-VTA-RAmb_Foxa1_Dopa.bw
@@ -197,7 +197,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track SNr_Six3_Gaba
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/SNr_Six3_Gaba.bw
@@ -240,7 +240,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Astrocyte-CB
                 bigDataUrl https://catlas.org/data/catlas/wholemousebrain/bigwig/Astro-CB_NN.bw
@@ -291,7 +291,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Sox6_1.3.4.2.8.10
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/tCNr92LTAnBfYCR/download/Sox6_1.3.4.2.8.10.bw
@@ -310,7 +310,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Calb1_12.11.6
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/8zmRS9d3Bi4qZLA/download/Calb1_12.11.6.bw
@@ -330,7 +330,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Calb1_7.19.9.13
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/PB4EGtTdTgs9nLb/download/Calb1_7.19.9.13.bw
@@ -349,7 +349,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Calb1_14.18
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/Di6trAmtYLx6sAC/download/Calb1_14.18.bw
@@ -368,7 +368,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Calb1_5
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/GT5knaFNbabF8S2/download/Calb1_5.bw
@@ -387,7 +387,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 maxHeightPixels 500:100:8
-viewLimits 0:7.5
+viewLimits 0:4
 
                 track Gad2_15.20
                 bigDataUrl https://134-87-9-218.arbutus.alliancecan.ca/nextcloud/index.php/s/omd5baN7bKaQ6tc/download/Gad2_15.20.bw
